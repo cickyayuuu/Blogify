@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://blogify-1-ktds.onrender.com"
